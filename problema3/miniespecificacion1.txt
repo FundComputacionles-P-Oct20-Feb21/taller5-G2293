@@ -1,0 +1,24 @@
+1. Inicio
+// declaro las variables
+2. 5dias, d[0, n]
+3. 10dias, d[0, n]
+4. 15dias, d[0, n]
+
+// pido datos por teclado - entradas
+5. Escribir "Ingrese de 5dias"
+6. Leer 5dias
+7. Escribir "Ingrese 10dias"
+8. Leer 10dias
+9. Escribir "Ingrese 15dias"
+10. Leer 15dias
+
+
+// proceso
+11. costo reducido <-- 5dias * 10%
+12. costo reducido <-- 10dias * 15%
+13. costo reducido <-- 15dias * 20%
+
+// salida
+14. Escribir "El subtotal por pagar es :" + costo reducido
+
+15. Fin
