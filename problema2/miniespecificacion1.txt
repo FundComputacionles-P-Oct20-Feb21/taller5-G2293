@@ -1,1 +1,24 @@
-seuyudfbisdjcnds
+1. Inicio
+// declaro las variables
+2. descripcion, d[0, n]
+3. cantidad, d[0, n]
+4. precio, d[0, n]
+5. 15%, d[0, n]
+
+// pido datos por teclado - entradas
+6. Escribir "Ingrese la cantidad"
+7. Leer cantidad
+8. Escribir "Ingrese el precio"
+9. Leer precio
+
+
+
+// proceso
+11. costototal <-- cantidad * precio
+12. costoreducido <-- costototal * 15%
+
+// salida
+13. Escribir "El costo de los periodicos es :" + costototal
+14. Escribir "El costo de los periodicos es :" + costoreducido
+
+16. Fin

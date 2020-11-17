@@ -1,0 +1,27 @@
+1. INICIO
+// declaro las variables
+2. kilovoltios, d[0, n]
+3. horas, d[0, n]
+4. dias, d[0, n]
+5. 10%, d[0, n]
+
+
+// pido datos por teclado - entradas
+6. Escribir "Ingrese los kilovotios"
+7. Leer kilovoltios
+8. Escribir "Ingrese las horas"
+9. Leer horas
+10. Escribir "Ingrese los dias"
+11. Leer dias
+
+
+// proceso
+12. KVH/mes <-- kv * horas * dias
+13. costo reducido <-- KVH/mes * 10%
+
+// salida
+14. Escribir "El costo de la plantilla de luz es: " + KVH/mes 
+15. escribir "el costo de la plantilla de luz es: " + costo reducido
+
+17. Fin
+
